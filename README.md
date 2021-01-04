@@ -11,6 +11,18 @@ Source code uses **RFC4226** and **RFC6238** as standard.
 [RFC4226](https://tools.ietf.org/html/rfc4226) - 
 [RFC6238](https://tools.ietf.org/html/rfc6238)
 
+## Contribution
+
+I want to make an UI for this project. If you want to become contributer of this project, please check below.
+
+# What will you do ?
+1. Develop Desktop Application which has user interface.
+2. Develop Android Application which has user interface.
+
+For contribution please contact me on below;
+[Bezmican Zehir LinkedIn](https://www.linkedin.com/in/bezmicanzehir/)
+
+
 ### How to use ?
 
 1. Download repository
