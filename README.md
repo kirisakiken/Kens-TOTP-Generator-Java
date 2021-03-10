@@ -33,6 +33,8 @@ For contribution please contact me on below;
 2. Open project in your choice of Java IDE
 3. Open **Main.java**
 4. Go to method in **Line 115**
-5. Change *rawKey*, *digits* and *hashAlgorithm* with your choice.
-6. Run 'Main'
-7. Check console for your Generated **Time-based One-Time Password**.
+
+.
+6. Change *rawKey*, *digits* and *hashAlgorithm* with your choice.
+7. Run 'Main'
+8. Check console for your Generated **Time-based One-Time Password**.
